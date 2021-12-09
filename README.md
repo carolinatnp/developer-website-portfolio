@@ -17,8 +17,8 @@
 - Add Java Scripts for a more interactive page.
 
 ## Links
-[GitHub Repository](https://github.com/carolinatnp/developer-website-portfolio)
-[Live Website](https://carolinatnp.github.io/developer-website-portfolio/)
+- [GitHub Repository](https://github.com/carolinatnp/developer-website-portfolio)
+- [Live Website](https://carolinatnp.github.io/developer-website-portfolio/)
 
 ## Live version
 ![Screen Shot 2021-12-09 at 10 09 41 pm](https://user-images.githubusercontent.com/94167488/145386067-1f6016b6-b43e-4b2b-8e2c-122d3992ad11.png)
