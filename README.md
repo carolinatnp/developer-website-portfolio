@@ -22,5 +22,6 @@
 - THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Links
+[GitHub Repository](https://github.com/carolinatnp/developer-website-portfolio)
 
 ## Live version
