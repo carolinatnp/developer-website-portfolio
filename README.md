@@ -12,9 +12,9 @@
 
 ## Future Improvements
 
--Improve portfolio display;
--Add new projects to the page and link the current empty blocks to these new projects;
--Add Java Scripts for a more interactive page.
+- Improve portfolio display;
+-  Add new projects to the page and link the current empty blocks to these new projects;
+- Add Java Scripts for a more interactive page.
 
 ## Links
 [GitHub Repository](https://github.com/carolinatnp/developer-website-portfolio)
