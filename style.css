@@ -78,8 +78,9 @@ nav ul li {
 }
 
 .hero img {
-  height: 37.5rem;
-  width: 37.5rem;
+  height: 30.5rem;
+  width: 25.5rem;
+  margin-top: 5px;
 }
 
 .bio {
@@ -185,9 +186,9 @@ nav ul li {
    display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 95%;
 
 }
-
 
 /* Projects section ends */
 
