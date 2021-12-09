@@ -1,13 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
 
 /* Variables */
 :root {
-  --font-family: "Roboto", sans-serf;
-  --normal-font: 400;
+  --font-family: Arial, Helvetica, sans-serif;
+  --normal-font: 500;
   --bold-font: 700;
   --bolder-font: 900;
   --bg-color: #fcfcfc;
-  --primary-color: #4756df;
+  --primary-color: rgb(138, 87, 94);
   --secondary-color: #ff7235;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #a17a69;
@@ -31,7 +30,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1.5rem 3.5rem;
+  padding: .5rem 3.5rem;
   background-color: var(--bg-color);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
@@ -84,6 +83,7 @@ nav ul li {
 }
 
 .bio {
+  font-family: Arial, Helvetica, sans-serif;
   width: 25rem;
   padding: 0.625rem;
   border-radius: 6px;
@@ -102,7 +102,8 @@ nav ul li {
 
 /* More about */
 .more-about {
-  background-color: var(--bg-color);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--bg-color);
   padding: 1rem 6rem;
 }
 
@@ -270,8 +271,8 @@ nav ul li {
 }
 
 .up-arrow {
-  width: 3rem;
-  height: 3rem;
+  width: 2rem;
+  height: 2rem;
 }
 /* Scroll to top button ends */
 
@@ -302,7 +303,7 @@ footer {
 }
 
 /* Media queries for responsiveness */
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 600px) {
   nav {
     padding: 1.5rem 1rem;
   }
@@ -342,7 +343,7 @@ footer {
   }
 
   .bio {
-    margin-top: -7rem;
+    margin-top: 3rem;
     width: 20.5rem;
   }
 
@@ -356,7 +357,7 @@ footer {
   }
 
   .more-about p {
-    text-align: justify;
+    text-align: center;
   }
 
   .icon {
